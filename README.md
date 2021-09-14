@@ -1,4 +1,4 @@
-## Paystack ![Build status](https://travis-ci.org/theslyone/node-paystack.svg?branch=master)
+## Emly ![Build status](https://travis-ci.org/theslyone/node-paystack.svg?branch=master)
 
 Nodejs API wrapper for [Emly](https://emly.cc/).
 
