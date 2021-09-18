@@ -4,25 +4,27 @@
     "description": "A Nodejs wrapper for Emly",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "repository": {
-      "type": "git",
-      "url": "git+https://github.com/Emly-Software/emly-nodejs.git"
+        "type": "git",
+        "url": "git+https://github.com/Emly-Software/emly-nodejs.git"
     },
     "keywords": [
-      "URL",
-      "URL",
-      "Shorterner",
-      "Link",
-      "Branding"
+        "URL",
+        "URL",
+        "Shorterner",
+        "Link",
+        "Branding"
     ],
     "author": "Emmanuel Etukudo",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/Emly-Software/emly-nodejs/issues"
+        "url": "https://github.com/Emly-Software/emly-nodejs/issues"
     },
-    "homepage": "https://github.com/Emly-Software/emly-nodejs#readme"
-  }
-  
-  
+    "homepage": "https://github.com/Emly-Software/emly-nodejs#readme",
+    "dependencies": {
+        "promise": "^8.1.0",
+        "request": "^2.88.2"
+    }
+}
