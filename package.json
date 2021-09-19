@@ -24,6 +24,7 @@
     },
     "homepage": "https://github.com/Emly-Software/emly-nodejs#readme",
     "dependencies": {
+        "chai": "^4.3.4",
         "mocha": "^9.1.1",
         "promise": "^8.1.0",
         "request": "^2.88.2"
