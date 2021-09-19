@@ -1,3 +1,4 @@
 /node_modules
 /demo.js
 .env
+package-lock.json
