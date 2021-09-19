@@ -4,7 +4,7 @@
     "description": "A Nodejs wrapper for Emly",
     "main": "index.js",
     "scripts": {
-        "test": "./node_modules/.bin/mocha ./test/*.js --reporter spec --timeout 800"
+        "test": "./node_modules/.bin/mocha ./test/*.js --reporter spec --timeout 8000"
     },
     "repository": {
         "type": "git",
